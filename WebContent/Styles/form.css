@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+body {
+	backgorund-color: Grey;
+}
+
+h2 {
+	color: blue;
+}
+h4 {
+	margin-left: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+input, select{
+	margin-left: 0.5em;
+	margin-bottom: 0.5em;
+}
